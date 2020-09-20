@@ -10,11 +10,16 @@ and outputs.
 
 The input is single-ended. 
 
+Architecture
+------------
+
 The amplifier consists of the following boards:
  - Amplifier boards (left and right channels)
  - Power supply and control board with mute and LED indication.
  - Input/output board with speaker protection and necessary input and output
    filtering.
+   
+![Image of Architecture](https://github.com/nradulovic/hw_harmonious/raw/master/Board%20overview.png)
 
 The complete model of the amplifier case layout is based on Dayens Ampino power 
 amplifier.
