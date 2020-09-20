@@ -1,0 +1,9 @@
+[submodule "hw_board_amplifier_psc_a"]
+	path = hw_board_amplifier_psc_a
+	url = git@github.com:nradulovic/hw_board_amplifier_psc_a.git
+[submodule "hw_board_amplifier_amp_harmonious"]
+	path = hw_board_amplifier_amp_harmonious
+	url = git@github.com:nradulovic/hw_board_amplifier_amp_harmonious.git
+[submodule "hw_board_amplifier_ioi_a"]
+	path = hw_board_amplifier_ioi_a
+	url = git@github.com:nradulovic/hw_board_amplifier_ioi_a.git
